@@ -1,0 +1,3 @@
+Although there are many data types, some of them are used more frequently. These involve data types for integers: byte, sbyte, short, ushort, int, uint,
+and long or ulong. There are for decimals and fractions:float, double, decimal. Data types for characters: char and string (the sequence of characters/chars).
+As well as, a logical data type:boolean/bool (true/false || 1 / 0).

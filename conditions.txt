@@ -1,0 +1,5 @@
+== - equal
+!= - not equal
+>/< - more/less
+>= - more and equal
+<= - less and equal

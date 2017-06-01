@@ -1,0 +1,6 @@
+The most common mathematical operators include :
++ - addition
+- - substraction
+* - multiplication
+/ - division
+% - division for remainder

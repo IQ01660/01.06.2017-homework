@@ -1,0 +1,18 @@
+There are 3 types of logical operators. These involve 
+&& - and
+|| - or
+!  - not
+
+We use "and"/ && to list conditions that should all be true in order for the condition to be true
+For example:
+	> true&&true&&false
+	< false
+
+We use "not"/ ! to list conditions that should have just one  true condition in order for the condition to be true
+For example:
+	> true||true||false
+	< true
+We use "not"/ ! to ask for the opposite of the written condition
+For example:
+	> !(true&&false)
+	< true

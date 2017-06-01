@@ -1,0 +1,1 @@
+Variable is a temporary repository for the data in the program. You can generally use variables in mathematcal equations and functions 
